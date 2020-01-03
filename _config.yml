@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 前端日记
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: hendark/zy
+language: zh-CN
 timezone: ''
 
 # URL
@@ -101,3 +101,4 @@ deploy:
   type: git
   repository: git@github.com:hendark/zy.github.io.git
   branch: master
+  
